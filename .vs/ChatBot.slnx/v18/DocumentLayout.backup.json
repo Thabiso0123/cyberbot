@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snowk\\OneDrive\\Desktop\\YEAR 2\\PROG6221\\PROG6221 GIT\\poe-part-3-Ntlatleng-Thabiso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A52198-76D3-47AE-831A-8E6A2C3B961A}|ChatBot.csproj|c:\\users\\snowk\\onedrive\\desktop\\year 2\\prog6221\\prog6221 git\\poe-part-3-ntlatleng-thabiso\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A52198-76D3-47AE-831A-8E6A2C3B961A}|ChatBot.csproj|solutionrelative:nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A52198-76D3-47AE-831A-8E6A2C3B961A}|ChatBot.csproj|c:\\users\\snowk\\onedrive\\desktop\\year 2\\prog6221\\prog6221 git\\poe-part-3-ntlatleng-thabiso\\quizengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A52198-76D3-47AE-831A-8E6A2C3B961A}|ChatBot.csproj|solutionrelative:quizengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NlpProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\snowk\\OneDrive\\Desktop\\YEAR 2\\PROG6221\\PROG6221 GIT\\poe-part-3-Ntlatleng-Thabiso\\NlpProcessor.cs",
+              "RelativeDocumentMoniker": "NlpProcessor.cs",
+              "ToolTip": "C:\\Users\\snowk\\OneDrive\\Desktop\\YEAR 2\\PROG6221\\PROG6221 GIT\\poe-part-3-Ntlatleng-Thabiso\\NlpProcessor.cs",
+              "RelativeToolTip": "NlpProcessor.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAAIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T21:31:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizEngine.cs",
+              "DocumentMoniker": "C:\\Users\\snowk\\OneDrive\\Desktop\\YEAR 2\\PROG6221\\PROG6221 GIT\\poe-part-3-Ntlatleng-Thabiso\\QuizEngine.cs",
+              "RelativeDocumentMoniker": "QuizEngine.cs",
+              "ToolTip": "C:\\Users\\snowk\\OneDrive\\Desktop\\YEAR 2\\PROG6221\\PROG6221 GIT\\poe-part-3-Ntlatleng-Thabiso\\QuizEngine.cs",
+              "RelativeToolTip": "QuizEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T21:31:00.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
